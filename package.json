@@ -1,0 +1,23 @@
+{
+  "name": "fast-prompt",
+  "description": "A fast and efficient prompt library for Node.js",
+  "version": "1.0.0",
+  "private": false,
+  "main": "source/index.js",
+  "types": "source/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "source"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx --watch src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.9",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
