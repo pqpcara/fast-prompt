@@ -8,16 +8,16 @@ Fast Prompt is a lightweight and efficient library for creating interactive prom
 
 ```bash
 # npm
-npm install fast-prompt
+npm install speedy-prompt
 
 # yarn
-yarn add fast-prompt
+yarn add speedy-prompt
 
 # pnpm
-pnpm install fast-prompt
+pnpm install speedy-prompt
 
 # bun
-bun install fast-prompt
+bun install speedy-prompt
 ```
 
 ---
